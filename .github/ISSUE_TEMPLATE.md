@@ -14,9 +14,9 @@
 - 截图：
 
 ### 编辑完推荐项目的信息，**请删除**下述提示信息
-1. [项目审核标准](https://gist.github.com/JameJJ/bbdf4f9fe5d9c69b4aba203dbe2cd873)
+1. [项目审核标准说明](https://gist.github.com/JameJJ/bbdf4f9fe5d9c69b4aba203dbe2cd873)
 
-2. 如您推荐的项目收录到《HelloGitHub》月刊，您的 GitHub 帐号将展示在 [贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/contributors.md)，**同时会在本 issues 中通知您**。
+2. 如您推荐的项目收录到《HelloGitHub》月刊，您的 GitHub 帐号将展示在 [贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)，**同时会在本 issues 中通知您**。
 
 3. HelloGitHub 网站：https://hellogithub.com
 
