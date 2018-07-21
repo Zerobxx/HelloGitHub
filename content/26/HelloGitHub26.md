@@ -197,27 +197,27 @@ pprint(result, indent=2)
 18、[rayon](https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器妆化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
 
 #### Swift 项目
-19、[DotzuX](https://github.com/DotzuX/DotzuX)：iOS APP 内置调试工具，支持 log 日志查看、网络抓包、沙盒查看等功能，代码零入侵。示例代码：
+19、[CocoaDebug](https://github.com/CocoaDebug/CocoaDebug)：iOS APP 内置调试工具，支持 log 日志查看、网络抓包、沙盒查看等功能，代码零入侵。示例代码：
 ```swift
 //Step 1.
 #if DEBUG
-    import DotzuX
+    import CocoaDebug
 #endif
 
 //Step 2.
 #if DEBUG
-    DotzuX.enable()
+    CocoaDebug.enable()
 #endif
 
 //Step 3.
-public func print<T>(file: String = #file, function: String = #function, line: Int = #line, _ message: T, _ color: UIColor? = nil) {
+public func print<T>(file: String = #file, function: String = #function, line: Int = #line, _ message: T, color: UIColor = .white) {
     #if DEBUG
         swiftLog(file, function, line, message, color)
     #endif
 }
 ```
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/img/DotzuX.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/img/CocoaDebug.gif)
 
 #### 其它
 20、[architect-awesome](https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
