@@ -132,6 +132,8 @@ const graph = new G6.Graph({
 graph.read(data);
 ```
 
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/img/g6.gif)
+
 16、[DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)：桌面版脑图是基于百度脑图的本地化版本，帮助你在没有互联网环境的情况下，依然可以使用脑图工具。开箱即用，跨平台支持 Windows/Linux/Mac OS。桌面版思维工具，目前 Xmind 使用很多，但是需要收费，对于不常用，要求没有严格可以考虑此项目
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/img/DesktopNaotu-min.png)
