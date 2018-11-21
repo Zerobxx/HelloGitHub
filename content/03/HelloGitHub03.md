@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 03 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -28,7 +28,7 @@
 3、[pholcus](https://github.com/henrylee2cn/pholcus)：Pholcus 是 Go 写的重量级爬虫，纯 Go 语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有 Web、GUI、命令行三种操作界面，功能齐全、强大。[使用手册](https://pholcus.gitbooks.io/docs/content/)，使用展示如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/Pholcus-min.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/Pholcus-min.jpg)
 
 #### Java 项目
 4、[greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)：Greys 是 Java 在线问题诊断工具。
@@ -37,18 +37,18 @@
 5、[OS.js](https://github.com/os-js/OS.js)：JavaScript 写的基于浏览器上的桌面操作系统。[在线演示](https://demo.os-js.org/)，使用展示如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/os-js-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/os-js-min.png)
 
 6、[editor.md](https://github.com/pandao/editor.md)：是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。[在线尝试](http://lab.lepture.com/editor/)，使用展示如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/editor.md-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/editor.md-min.png)
 
 #### PHP 项目
 7、[walle-web](https://github.com/meolu/walle-web)：Walle（瓦力） 一个 Web 部署系统工具，可能也是个持续发布工具，配置简单、功能完善、界面流畅、开箱即用！支持 git、svn 版本管理，支持各种 Web 代码发布，静态的 HTML，动态 PHP，需要编译的 Java 等。[中文介绍](https://github.com/meolu/walle-web/blob/master/docs/README-zh.md)，使用展示如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/wali-show.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/wali-show.gif)
 
 #### Python 项目
 8、[KindleEar](https://github.com/cdhigh/KindleEar)：这是一个运行在 Google App Engine(GAE) 上的 Kindle 个人推送服务应用，生成排版精美的杂志模式 `mobi/epub` 格式自动每天推送至您的 Kindle 或其他邮箱。

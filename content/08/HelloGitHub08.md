@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 08 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -72,7 +72,7 @@ Console.WriteLine(json);
 3、[kcptun](https://github.com/xtaci/kcptun)：也许是世界上最快的 UDP 传输工具，支持 macOS/Linux/Windows/FreeBSD/ARM/Raspberry Pi/OpenWrt。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/kcptun-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/kcptun-show-min.png)
 
 #### Java 项目
 4、[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)：Android 开发人员不得不收集的代码，[中文介绍](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
@@ -94,7 +94,7 @@ Console.WriteLine(json);
 6、[WeFlow](https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/weflow-show-min.jpeg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/weflow-show-min.jpeg)
 
 7、[atrament.js](https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
@@ -111,18 +111,18 @@ Console.WriteLine(json);
 - 任务完成通知
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/aria2gui-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/aria2gui-show-min.png)
 
 #### Python 项目
 10、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/reddit-show-min.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/reddit-show-min.jpg)
 
 11、[httpstat](https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/httpstat-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/httpstat-show-min.png)
 
 12、[PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
 ```
@@ -172,7 +172,7 @@ finally:
 13、[discourse](https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/discourse-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/discourse-show-min.png)
 
 #### 其它
 14、[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)：提问的智慧，提出一个好的问题是解决问题的关键

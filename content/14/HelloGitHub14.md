@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 14 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -32,7 +32,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 3、[bfs](https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/bfs-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png)
 
 #### Go 项目
 4、[poseidon](https://github.com/Qihoo360/poseidon)：Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
@@ -42,7 +42,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 6、[fsql](https://github.com/kshvmdn/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/fsql.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif)
 
 #### Java 项目
 7、[symphony](https://github.com/b3log/symphony)：用 Java 实现的现代化社区（论坛／社交网络／博客）平台，功能众多，[访问该社区](https://hacpai.com/tag/Sym)
@@ -55,12 +55,12 @@ gcc -g -O2 testSearcher.c ip2region.c
 10、[BrowserQuest](https://github.com/mozilla/BrowserQuest)：Mozilla 开源的多人在线角色扮演游戏项目
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/browserquest-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png)
 
 11、[Rental](https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/rental-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png)
 
 12、[deep-into-node](https://github.com/yjhjstz/deep-into-node)：深入理解 Node.js 的核心思想与源码分析
 
@@ -68,29 +68,29 @@ gcc -g -O2 testSearcher.c ip2region.c
 13、[iTerm2](https://github.com/gnachman/iTerm2)：Mac 上超好用的终端软件
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/iterm2-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png)
 
 #### PHP 项目
 14、[nextcloud](https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/nextcloud-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png)
 
 #### Python 项目
 15、[explainshell1](https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/explainshell-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png)
 
 16、[certbot](https://github.com/certbot/certbot)：免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，[部署教程](https://certbot.eff.org/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/cerbot-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png)
 
 17、[pdir2](https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/pdir2.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif)
 
 #### Swift 项目
 18、[EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
@@ -98,7 +98,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 - 使用神经网络识别图形，返回 emoji 表情
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/emoji-intelligence.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif)
 
 #### 其它
 19、[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)：一个能够让你快速上手，史称 “终极 Shell” zsh 的工具，让你感觉终端前所未有的好用。详细介绍 —— [MacTalk 之终极 Shell](http://macshuo.com/?p=676)

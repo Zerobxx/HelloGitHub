@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 31 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,7 +22,7 @@
 #### C 项目
 1、[obs-studio](https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/obs-studio.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg)
 
 2、[Algorithms_C](https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
 
@@ -126,11 +126,11 @@ BitmapEncoder.saveBitmap(chart, "./Sample_Chart", BitmapFormat.PNG);
 BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PNG, 300);
 ```
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/XChart.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/XChart.png)
 
 9、[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)：学习成本极低的 Android 屏幕适配方案，已被知名 APP 用于线上产品
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/AndroidAutoSize.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/AndroidAutoSize.png)
 
 10、[MyPerf4J](https://github.com/ThinkpadNC5/MyPerf4J)：一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。特性：
 - 高性能: 单线程支持每秒 1000 万次 响应时间的记录，每次记录只花费 73 纳秒
@@ -139,7 +139,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 - 高精度：采用纳秒来计算响应时间
 - 高实时：支持秒级监控，最低 1 秒
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/MyPerf4J.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/MyPerf4J.gif)
 
 #### JavaScript 项目
 11、[chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)：Chrome 插件开发完整教程，可用来学习插件开发
@@ -153,7 +153,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 #### Python 项目
 15、[awslogs](https://github.com/jorgebastida/awslogs)：一个简单的命令行工具，用于在本地查询 Amazon CloudWatch 日志，强大的支持多实例日志汇总查看。简单的查看命令：`awslogs get /var/logs/syslog ALL -s1d`
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/awslogs.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/awslogs.png)
 
 16、[CUP](https://github.com/baidu/CUP)：CUP 基础库是百度开源的 Python 语言基础库，致力将 DEV 从涉及底层操作、Util 操作类解放出来，使其更关注构建 service 上层业务逻辑。
 目前已涵盖了构建一个服务的各个方面，大家可以从基础库的代码结构、wiki、doc 中进行简单了解。
@@ -183,7 +183,7 @@ cup
 #### Swift 项目
 18、[gifski-app](https://github.com/sindresorhus/gifski-app)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/img/gifski-app.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg)
 
 #### 其它
 19、[zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)：Google 开源项目风格指南 (中文版)

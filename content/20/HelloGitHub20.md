@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 20 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -29,12 +29,12 @@
 #### C++ 项目
 2、[robomongo](https://github.com/Studio3T/robomongo)：免费、开源的 MongoDB 跨平台桌面管理工具，支持 Windows、Linux、Mac
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/robomongo-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/robomongo-show-min.png)
 
 #### CSS 项目
 3、[milligram](https://github.com/milligram/milligram)：极简风格的 CSS 框架，而且文件很小
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/milligram-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/milligram-show-min.png)
 
 4、[magic-of-css](https://github.com/adamschwartz/magic-of-css)：一套可以让你成为‘魔术师’的 CSS 教程（英文）
 
@@ -64,7 +64,7 @@ PayAPI.getInstance().sendPayRequest(wechatPayReq);
 
 7、[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)：[代码家](https://github.com/daimajia)开源的滑动布局库，不用多说什么了。动起手来试试，然后通过阅读代码学习大神们的编程技巧，有一天你也可以做出有价值、流行的开源库
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/AndroidSwipeLayout.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/AndroidSwipeLayout.gif)
 
 #### JavaScript 项目
 8、[IDValidator](https://github.com/mc-zone/IDValidator)：中国大陆个人身份证号验证，支持 15、18 位身份证号，API 如下：
@@ -74,15 +74,15 @@ PayAPI.getInstance().sendPayRequest(wechatPayReq);
 
 9、[livepython](https://github.com/agermanidis/livepython)：可视化、实时追踪展示 Python 代码
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/livepython.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/livepython.gif)
 
 10、[React-Cnode](https://github.com/Juliiii/React-Cnode)：适合新手的 React 全家桶项目学习，同时附有作者在开发中的一些[思考](http://www.jianshu.com/p/43c604177c08)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/React-Cnode.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/React-Cnode.gif)
 
 11、[nba-go](https://github.com/xxhomey19/nba-go)：可以用命令终端查看 NBA 比赛，包括比赛开始时间表、实时比分情况、文字直播（英文）等。终端看 NBA，你才是最潮的。安装命令 `npm install -g nba-go`
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/nba-go-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/nba-go-show-min.png)
 
 12、[hub.js](https://github.com/yyued/hub.js)：仅 6KB 通过简单的 API & 自由组合的链式写法，轻松订阅管理各类事件流。示例代码如下：
 ```javascript
@@ -104,7 +104,7 @@ setInterval(( ) => {
 
 14、[Flesh](https://github.com/Kerr1Gan/Flesh)：如果你是一位想学习一下 Kotlin 的同学，那么 Flesh 是一个适合学习、练手、入门的项目。从中可以学到 Java 与 Kotlin 间的相互调用、爬虫操作。这是个诚意（福利）满满的项目，快去下载、加入到这个项目中吧
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/Flesh.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/Flesh.gif)
 
 #### Python 项目
 15、[records](https://github.com/kennethreitz/records)：Kenneth Reitz 大神的`for Humans™`系列，Records 是一个支持大多数主流关系数据库的原生 SQL 查询第三方库。API 友好，使用简单、支持命令行模式、功能多样。与此同时该库只有 500 行代码，可以当作入门阅读源码的项目，同时学习大神的编程技巧与习惯，示例代码如下：
@@ -134,7 +134,7 @@ with open('report.xls', 'wb') as f:
 
 16、[zdict](https://github.com/zdict/zdict)：方便的终端字典工具，支持多种字典和参数、翻译结果高亮、以及交互模式查询。安装命令 `pip install zdict` （仅支持 Python3）。查询效果如下图所示：
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/zdict-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/zdict-show-min.png)
 
 17、[joblib](https://github.com/joblib/joblib)：使用 Python 方便的进行并行计算，示例代码如下：
 ```python
@@ -145,14 +145,14 @@ Parallel(n_jobs=1)(delayed(sqrt)(i**2) for i in range(10))
 
 18、[tldr-python-client](https://github.com/tldr-pages/tldr-python-client)：Linux man 解释一般都太长了，很多时候我们就想用一些比较常用的命令，但却记不起来。这个时候如果不 Google，就可以用 [tldr（简化 man 的工程）](https://github.com/tldr-pages/tldr)。该项目为 Python 客户端实现
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/tldr-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/tldr-show-min.png)
 
 #### 其它
 19、[hangzhouYunQi2017ppt](https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt)：2017 杭州云栖大会精华 PPT，[移步到阿里云下载与浏览](https://yq.aliyun.com/articles/231065)
 
 20、[vim-game-code-break](https://github.com/johngrib/vim-game-code-break)：Vim 中的打砖块游戏
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/vim-game-code-break.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/vim-game-code-break.gif)
 
 21、[github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)：GitHub 和 Git 的秘籍，[中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
@@ -161,7 +161,7 @@ Parallel(n_jobs=1)(delayed(sqrt)(i**2) for i in range(10))
 #### 机器学习
 23、[angel](https://github.com/Tencent/angel)：腾讯开源的高性能分布式机器学习平台，具有广泛的适用性和稳定性，模型维度越高。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，可以实现各种高效的机器学习算法
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/img/angel-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/angel-show-min.png)
 
 
 

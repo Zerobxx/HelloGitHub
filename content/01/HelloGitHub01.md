@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 01 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -28,12 +28,12 @@
 3、[VeryNginx](https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/VeryNginx-min.jpeg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/VeryNginx-min.jpeg)
 
 4、[activate-power-mode](https://github.com/disjukr/activate-power-mode)：爆炸输入效果，[在线演示](http://0xabcdef.com/activate-power-mode/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/activate-power-mode.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/activate-power-mode.gif)
 
 #### Python 项目
 5、[awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
@@ -43,18 +43,18 @@
 7、[tushare](https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/TuShare-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/TuShare-min.png)
 
 8、[beijing_bus](https://github.com/wong2/beijing_bus)：北京实时公交，可以显示查询的公交到达某站还需多久
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4.gif)
 
 #### 其它
 9、[archey-osx](https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/Archey%20for%20OS%20X-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/Archey%20for%20OS%20X-min.png)
 
 10、[Learning-SICP](https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
 

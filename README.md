@@ -1,7 +1,7 @@
 # HelloGitHub
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到编程的兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。

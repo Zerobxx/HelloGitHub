@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 11 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -43,7 +43,7 @@ Transfer/sec:    606.33MB
 3、[WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney)：微信抢红包插件，基于 Xposed 框架，速度快得冷人发指。为避免过度拉仇恨，请谨慎使用（哈哈哈😄）。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/wechatluckymoney.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/wechatluckymoney.gif)
 
 4、[GitClub](https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
 
@@ -58,18 +58,18 @@ Transfer/sec:    606.33MB
 - 部署简单，不依赖 Tomcat
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/tale-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tale-show-min.png)
 
 6、[jvm-mon](https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/jvm-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/jvm-show-min.png)
 
 #### JavaScript 项目
 7、[react-tetris](https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/tetris.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tetris.gif)
 
 #### Python 项目
 8、[sh](https://github.com/amoffat/sh)：sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5
@@ -89,7 +89,7 @@ print ifconfig("eth0")
 11、[Swift30Projects](https://github.com/soapyigu/Swift30Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/swift30projects-show-min.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/swift30projects-show-min.jpg)
 
 #### 其它
 12、[linux-command](https://github.com/jaywcjlove/linux-command)：Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集

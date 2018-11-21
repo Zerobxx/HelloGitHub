@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 09 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -23,7 +23,7 @@
 1、[json](https://github.com/nlohmann/json)：C++ 的 JSON 库
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/json-show.gif)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/json-show.gif)
 
 #### Go 项目
 2、[vim-go](https://github.com/fatih/vim-go)：Go 的 vim 配置
@@ -40,7 +40,7 @@
 6、[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/vue-hackernews-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/vue-hackernews-show-min.png)
 
 7、[N-blog](https://github.com/nswbmw/N-blog)：N-blog 项目是面向新手的 Node.js 教程，该教程讲述了 Node.js 基本知识点，同时结合搭建一个多人博客的实战，从零基础到实际开发，由浅到深帮助新手入门 Node.js 这门语言
 
@@ -90,12 +90,12 @@ ngrok http 8000
 ```
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/ngrok-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/ngrok-show-min.png)
 
 12、[glances](https://github.com/nicolargo/glances)：Glances 是一个可以让你**一目了然**你的系统情况（类 top、htop)的工具，它界面友好，安装方便：`pip install glances`
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/glances-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/glances-show-min.png)
 
 #### Swift 项目
 13、[Kingfisher](https://github.com/onevcat/Kingfisher)：Kingfisher 是一个异步下载和缓存图片的库，你可以把它看做 SDWebImage 的纯 Swift 实现和替代。它可以帮助简单地实现像是用户头像或者 table view 里面的图片的下载和缓存这样的工作，以提高 app 速度和帮助开发者节省时间，[作者的中文博客](http://project.onevcat.com/)

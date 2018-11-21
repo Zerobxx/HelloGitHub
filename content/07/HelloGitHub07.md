@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 07 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -26,7 +26,7 @@
 2、[MongoCola](https://github.com/magicdict/MongoCola)：MongoCola 是一个开源的 MongoDB 管理工具。持续开发、维护已经有**五年**了，[开发历程](http://www.cnblogs.com/TextEditor/p/5473190.html)，效果图如下：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/mongocola-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/mongocola-show-min.png)
 
 #### C++ 项目
 3、[cpr](https://github.com/whoshuu/cpr)：C++ 版 `Request for human`，[在线文档](https://whoshuu.github.io/cpr/)，示例代码：
@@ -52,12 +52,12 @@ int main(int argc, char** argv) {
 #### JavaScript 项目
 6、[nodeclub](https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](https://cnodejs.org/)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/nodeclub-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/nodeclub-show-min.png)
 
 7、[clipboard](https://github.com/zenorocha/clipboard.js)：实现了点击文本内容的 JavaScript 插件，优点：最新、极小、无任依赖、使用简单方便。[在线文档](https://clipboardjs.com)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/clipboard-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/clipboard-show-min.png)
 
 #### Objective-C 项目
 8、[PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser)：高仿 QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods）
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 9、[httpie](https://github.com/jkbrzt/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/httpie-show-min.png)
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/httpie-show-min.png)
 
 10、[langid](https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
 ```python
